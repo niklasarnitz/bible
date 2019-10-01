@@ -1,3 +1,3 @@
 # bible
 
-A description of this package.
+A simple, native cli app for using different JSON bibles.
